@@ -2,7 +2,7 @@
 
 Esse projeto é uma calculadora criada para a pratica de html, css, javascript e manipulação do Dom. Tecnologias utilizadas: HTML, CSS e Javascript
 
-##########################################################################################################
+
 
 # Calculator
 
